@@ -1,0 +1,32 @@
+{
+  "tokenId": 18,
+  "name": "TeNFTs18",
+  "description": "none color",
+  "image": "18.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background 5"
+    },
+    {
+      "trait_type": "Green",
+      "value": "Green 2"
+    },
+    {
+      "trait_type": "Pink",
+      "value": "Pink 2"
+    },
+    {
+      "trait_type": "Purple",
+      "value": "Purple 1"
+    },
+    {
+      "trait_type": "Red",
+      "value": "Red 5"
+    },
+    {
+      "trait_type": "Yellow",
+      "value": "Yellow 1"
+    }
+  ]
+}

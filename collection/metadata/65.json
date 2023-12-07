@@ -1,0 +1,32 @@
+{
+  "tokenId": 65,
+  "name": "TeNFTs65",
+  "description": "none color",
+  "image": "65.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background 3"
+    },
+    {
+      "trait_type": "Green",
+      "value": "Green 3"
+    },
+    {
+      "trait_type": "Pink",
+      "value": "Pink 3"
+    },
+    {
+      "trait_type": "Purple",
+      "value": "Purple 1"
+    },
+    {
+      "trait_type": "Red",
+      "value": "Red 3"
+    },
+    {
+      "trait_type": "Yellow",
+      "value": "Yellow 1"
+    }
+  ]
+}

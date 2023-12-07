@@ -1,0 +1,32 @@
+{
+  "tokenId": 25,
+  "name": "TeNFTs25",
+  "description": "none color",
+  "image": "25.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background 2"
+    },
+    {
+      "trait_type": "Green",
+      "value": "Green 3"
+    },
+    {
+      "trait_type": "Pink",
+      "value": "Pink 5"
+    },
+    {
+      "trait_type": "Purple",
+      "value": "Purple 2"
+    },
+    {
+      "trait_type": "Red",
+      "value": "Red 5"
+    },
+    {
+      "trait_type": "Yellow",
+      "value": "Yellow 4"
+    }
+  ]
+}

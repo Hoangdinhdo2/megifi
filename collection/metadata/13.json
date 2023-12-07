@@ -1,0 +1,32 @@
+{
+  "tokenId": 13,
+  "name": "TeNFTs13",
+  "description": "none color",
+  "image": "13.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background 5"
+    },
+    {
+      "trait_type": "Green",
+      "value": "Green 3"
+    },
+    {
+      "trait_type": "Pink",
+      "value": "Pink 5"
+    },
+    {
+      "trait_type": "Purple",
+      "value": "Purple 2"
+    },
+    {
+      "trait_type": "Red",
+      "value": "Red 1"
+    },
+    {
+      "trait_type": "Yellow",
+      "value": "Yellow 2"
+    }
+  ]
+}

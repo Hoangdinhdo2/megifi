@@ -1,0 +1,32 @@
+{
+  "tokenId": 76,
+  "name": "TeNFTs76",
+  "description": "none color",
+  "image": "76.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background 3"
+    },
+    {
+      "trait_type": "Green",
+      "value": "Green 5"
+    },
+    {
+      "trait_type": "Pink",
+      "value": "Pink 5"
+    },
+    {
+      "trait_type": "Purple",
+      "value": "Purple 1"
+    },
+    {
+      "trait_type": "Red",
+      "value": "Red 4"
+    },
+    {
+      "trait_type": "Yellow",
+      "value": "Yellow 4"
+    }
+  ]
+}

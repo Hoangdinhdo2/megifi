@@ -1,0 +1,32 @@
+{
+  "tokenId": 37,
+  "name": "TeNFTs37",
+  "description": "none color",
+  "image": "37.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background 1"
+    },
+    {
+      "trait_type": "Green",
+      "value": "Green 4"
+    },
+    {
+      "trait_type": "Pink",
+      "value": "Pink 4"
+    },
+    {
+      "trait_type": "Purple",
+      "value": "Purple 4"
+    },
+    {
+      "trait_type": "Red",
+      "value": "Red 1"
+    },
+    {
+      "trait_type": "Yellow",
+      "value": "Yellow 3"
+    }
+  ]
+}

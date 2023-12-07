@@ -1,0 +1,32 @@
+{
+  "tokenId": 90,
+  "name": "TeNFTs90",
+  "description": "none color",
+  "image": "90.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background 5"
+    },
+    {
+      "trait_type": "Green",
+      "value": "Green 2"
+    },
+    {
+      "trait_type": "Pink",
+      "value": "Pink 5"
+    },
+    {
+      "trait_type": "Purple",
+      "value": "Purple 4"
+    },
+    {
+      "trait_type": "Red",
+      "value": "Red 4"
+    },
+    {
+      "trait_type": "Yellow",
+      "value": "Yellow 5"
+    }
+  ]
+}
